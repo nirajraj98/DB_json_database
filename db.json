@@ -6,7 +6,7 @@
   "users": [
    
   ],
-  "hotels":[
+  "hotels":
     [
       {
         "category": "Family",
@@ -19,5 +19,5 @@
         "booked":false
       }
     ]
-  ]
+  
 }
